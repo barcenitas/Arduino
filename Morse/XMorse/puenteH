@@ -1,0 +1,5 @@
+pin de interrupcion 2 valor 0
+LOW
+RISING
+CHANGE
+FALLING
